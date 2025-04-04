@@ -1,0 +1,29 @@
+# Normalizar todos los archivos de texto a LF
+* text=auto eol=lf
+
+# Archivos Unity con merge y saltos de línea consistentes
+*.unity  merge=unityyamlmerge eol=lf
+*.prefab merge=unityyamlmerge eol=lf
+*.asset  merge=unityyamlmerge eol=lf
+*.mat    merge=unityyamlmerge eol=lf
+*.meta   text eol=lf
+
+# Scripts y archivos de configuración
+*.cs      text eol=lf
+*.shader  text eol=lf
+*.cginc   text eol=lf
+*.compute text eol=lf
+*.hlsl    text eol=lf
+*.uxml    text eol=lf
+*.uss     text eol=lf
+*.json    text eol=lf
+*.txt     text eol=lf
+
+# Archivos binarios
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.mp3  binary
+*.ogg  binary
+*.wav  binary
+*.fbx  binary

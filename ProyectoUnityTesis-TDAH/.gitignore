@@ -1,0 +1,58 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+ExportedObj/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Addressables y builds
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+*.apk
+*.aab
+*.ipa
+*.exe
+*.dll
+*.unitypackage
+*.app
+
+# Unity editor state files
+*.traceevents
+*.state.map
+*.digestcache
+*.db
+*.lock
+*.pid
+*.json
+*.log
+
+# VS Code, Rider, system files
+.vscode/
+.gradle/
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Package cache
+/[Pp]ackage[Cc]ache/
+/Packages/com.unity.*
